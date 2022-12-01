@@ -1,1 +1,1 @@
-# tf-provider-apic
+# tf-apic
